@@ -1,0 +1,1 @@
+The ATM Machine Java System is used for is an electronic banking outlet that allows customers to complete basic transactions without the aid of a branch representative or teller. In this program in Java NetBeans, it allows consumers to perform quick self-service transactions such as deposits, cash withdrawals and checking balance.
